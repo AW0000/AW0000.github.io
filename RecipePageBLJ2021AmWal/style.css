@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #F2E4FF;
+  }
+  
+  .bg-light {
+    background: #44057D !important;
+  }
+  
+  .navbar-light .navbar-nav .nav-link {
+      color: #F2E4FF;
+  }
+  body {
+      background-color: #F2E4FF;
+  }
