@@ -1,3 +1,15 @@
+.recipe {
+    margin: 50px;
+}
+li {
+    margin-left: 6em;
+    margin-right: 9.75em;
+  }
+  
+  ul {
+    margin-left: 2em;
+    width: 100%;
+  }
 .navbar {
     background-color: #F2E4FF;
   }
@@ -11,4 +23,20 @@
   }
   body {
       background-color: #F2E4FF;
+      
+  }
+  footer {
+    text-align: center;
+    padding: 5px;
+    background-color: #44057D;
+    color: white;
+  }
+  p2 {
+      color: #F2E4FF;
+  }
+  h1 {
+      color: #44057D !important;
+  }
+  h3 {
+      color: #44057D;
   }
