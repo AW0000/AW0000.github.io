@@ -30,6 +30,7 @@ li {
     padding: 5px;
     background-color: #44057D;
     color: white;
+    height: 4.5cm;
   }
   p2 {
       color: #F2E4FF;
@@ -38,5 +39,8 @@ li {
       color: #44057D !important;
   }
   h3 {
+      color: #44057D;
+  }
+  p3 {
       color: #44057D;
   }
