@@ -1,14 +1,19 @@
 .recipe {
     margin: 50px;
 }
+img{
+  max-height: 10cm;
+  margin-bottom: 2cm;
+}
 li {
-    margin-left: 6em;
+   margin-left: 6em;
     margin-right: 9.75em;
   }
   
   ul {
     margin-left: 2em;
     width: 100%;
+
   }
 .navbar {
     background-color: #F2E4FF;
@@ -23,6 +28,7 @@ li {
   }
   body {
       background-color: #F2E4FF;
+     
       
   }
   footer {
@@ -42,6 +48,7 @@ li {
   }
   h3 {
       color: #44057D;
+    
   }
   p3 {
       color: #44057D;
@@ -50,10 +57,21 @@ li {
 img {
   max-width: 200% !important;
   margin-left: 5%;
-  margin-bottom: 5%;
+  margin-bottom: -1cm;
   margin-right: -100rem !important;
 }
 
 
+@media screen and (max-width: 1000px) {
+  img {
+    width: 100px;
+  
+  }
+}
+@media screen and (max-width: 600px) {
+  img {
+    width: 80px;
+  }
+}
 
   
