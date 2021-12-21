@@ -1,9 +1,11 @@
 .recipe {
-    margin: 50px;
+    margin: 75px;
 }
 img{
   max-height: 10cm;
   margin-bottom: 2cm;
+  margin: 0.5cm;
+  margin-left: -1cm;
 }
 li {
    margin-left: 6em;
