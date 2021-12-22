@@ -62,7 +62,20 @@ img {
   margin-bottom: -1cm;
   margin-right: -100rem !important;
 }
+p4 {
+  color: #44057D;
+  font-weight: bolder;
+}
 
+/* Style buttons */
+.btn {
+  background-color: #44057D;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
 
 @media screen and (max-width: 1000px) {
   img {
