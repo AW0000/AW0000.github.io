@@ -29,6 +29,7 @@ li {
       color: #F2E4FF;
   }
   body {
+     max-width: 100%;
       background-color: #F2E4FF;
       
   }
@@ -81,6 +82,8 @@ p4 {
     width: 100px;
   
   }
+  .recipe {
+    margin-left: 50px  }
 }
 @media screen and (max-width: 600px) {
   img {
@@ -88,6 +91,9 @@ p4 {
   }
   p3 {
     margin-left: -1cm;
+  }
+  .recipe {
+    margin-left: 40px;
   }
 }
 
