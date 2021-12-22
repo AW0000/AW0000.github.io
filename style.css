@@ -30,7 +30,6 @@ li {
   }
   body {
       background-color: #F2E4FF;
-     
       
   }
   footer {
@@ -58,7 +57,7 @@ li {
 
 img {
   max-width: 10cm !important;
-  margin-left: 5%;
+  margin-left: 1.2cm;
   margin-bottom: -1cm;
   margin-right: -100rem !important;
 }
@@ -71,13 +70,13 @@ p4 {
 .btn {
   background-color: #44057D;
   border: none;
-  color: white;
+  color: #F2E4FF;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1200px) {
   img {
     width: 100px;
   
@@ -86,6 +85,9 @@ p4 {
 @media screen and (max-width: 600px) {
   img {
     width: 80px;
+  }
+  p3 {
+    margin-left: -1cm;
   }
 }
 
